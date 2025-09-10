@@ -1,15 +1,15 @@
 **MY DEVELOPER PORTFOLIO**
 
-ABOUT
+**ABOUT**
 A showcase of my projects, skills, and experiences as a developer. This portfolio highlights my expertise in building innovative solutions and my passion for coding.
 
-FEATURES
+**FEATURES**
 Responsive design for optimal viewing on various devices
 Project showcases with descriptions, screenshots, and links
 Contact form for potential clients or collaborators
 Blog section for sharing knowledge and experiences
 
-TECHNOLOGIES USED
+**TECHNOLOGIES USED**
 HTML5
 CSS3
 JavaScript
@@ -17,14 +17,14 @@ React
 Node.js
 Git
 
-Contributing
+**Contributing**
 Not applicable for personal portfolio.
 
-LICENCES
+**LICENCES**
 MIT
 
 
-FILE STRUCTURE
+**FILE STRUCTURE**
 - index.html holds the entire content
 - css/styles.css custom css styling
 - js/scripts.js custom js code
@@ -32,14 +32,14 @@ FILE STRUCTURE
 - The rest are files specific to different frameworks and dependencies
 
 
-FRAMEWORKS & DEPENDENCIES
+**FRAMEWORKS & DEPENDENCIES**
 - Bootstrap https://getbootstrap.com/
 - jQuery https://jquery.com/ 
 - jQuery Easing https://jqueryui.com/easing/
 - Font Awesome for icons https://fontawesome.com/
 
 
-IMAGES
+**IMAGES**
 All images are included in the download package and can be reused in your projects. The ones mentioned below come for outside resources. The ones not mentioned come from inside resources like created by Inovatik or purchased special license from authors. Either way you can use them for free in your project if you want.
 - Header: https://www.pexels.com/photo/man-in-red-crew-neck-long-sleeve-shirt-and-black-denim-jeans-leaning-green-wall-3966215/
 - Details: https://www.pexels.com/photo/photo-of-man-holding-a-book-927022/
@@ -48,11 +48,11 @@ All images are included in the download package and can be reused in your projec
 - Project details image small: https://www.pexels.com/photo/apple-office-internet-ipad-38544/
 
 
-CREDITS
+**CREDITS**
 Special thank you for:
 - Images by Pexels: https://www.pexels.com/
 
-CONTACT
+**CONTACT**
 Name: Victor Godwin
 Email: viccreatives22@gmail.com
 Github: https://github.com/vgodwin1994
